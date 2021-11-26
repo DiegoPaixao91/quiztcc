@@ -13,6 +13,7 @@ Ferramentas de desenvolvimento
 - Linguagem de programação: C# (C Sharp)
 - Criação e edição das imagens: GIMP
 - Aplicação para criação dos wireframes: Canva
+
 Arte
 Jogo 2D do tipo Digital art
 Música/Trilha Sonora
