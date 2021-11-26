@@ -1,4 +1,4 @@
-<p align="center"> O Quiz Acadêmico </p>
+<h1> O Quiz Acadêmico </h1>
 
 <p align="justify">O Quiz Acadêmico ajudará o jogador a se preparar para avaliações, enem, vestibulares e até
 certificações, estudando e se divertindo ao mesmo tempo.
@@ -8,26 +8,25 @@ em quatro disciplinas. Cada disciplina tem uma série de questões que são sele
 aleatoriamente. Por fim, a pontuação é calculada levando-se em conta o percentual de
 respostas corretas. O objetivo principal é que o jogador atinja a maior porcentagem possível.</p>
 
-<p align="center"> Ferramentas de desenvolvimento </p>
+<h2> Ferramentas de desenvolvimento </h2>
+<ul>
+<li>Plataforma de desenvolvimento: Unity</li>
+<li>Ambiente de desenvolvimento integrado a Unity: Visual Studio</li>
+<li>Linguagem de programação: C# (C Sharp)</li>
+<li>Criação e edição das imagens: GIMP</li>
+<li>Aplicação para criação dos wireframes: Canva</li>
+</ul>
 
-- Plataforma de desenvolvimento: Unity
-- Ambiente de desenvolvimento integrado a Unity: Visual Studio
-- Linguagem de programação: C# (C Sharp)
-- Criação e edição das imagens: GIMP
-- Aplicação para criação dos wireframes: Canva
 
 Arte
 Jogo 2D do tipo Digital art
 Música/Trilha Sonora
 As trilhas sonoras provem do Freesound um repositório colaborativo de amostras de áudio
 licenciado por CC.
-
 Interface/Controles
 Toda a interação do jogador com o jogo será feita através de ações touch.
-
 Dificuldade
 A dificuldade do game depende exclusivamente do conhecimento prévio do jogador.
-
 Definições gerais
 Gênero: Jogo educativo;
 Plataformas: Android;
