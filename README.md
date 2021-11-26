@@ -1,4 +1,4 @@
-<h1> O Quiz Acadêmico </h1>
+<h1> Quiz Acadêmico </h1>
 
 <p align="justify">O Quiz Acadêmico ajudará o jogador a se preparar para avaliações, enem, vestibulares e até
 certificações, estudando e se divertindo ao mesmo tempo.
@@ -18,15 +18,17 @@ respostas corretas. O objetivo principal é que o jogador atinja a maior porcent
 </ul>
 
 
-Arte
+<h3>Arte
 Jogo 2D do tipo Digital art
-Música/Trilha Sonora
+<h3>Música/Trilha Sonora
 As trilhas sonoras provem do Freesound um repositório colaborativo de amostras de áudio
 licenciado por CC.
-Interface/Controles
+<h3>Interface/Controles
 Toda a interação do jogador com o jogo será feita através de ações touch.
-Dificuldade
+<h3>Dificuldade
 A dificuldade do game depende exclusivamente do conhecimento prévio do jogador.
-Definições gerais
-Gênero: Jogo educativo;
-Plataformas: Android;
+<h3>Definições gerais
+<ul>
+<li>Gênero: Jogo educativo;</li>
+<li>Plataformas: Android;</li>
+</ul>
