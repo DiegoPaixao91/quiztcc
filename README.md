@@ -18,16 +18,16 @@ respostas corretas. O objetivo principal é que o jogador atinja a maior porcent
 </ul>
 
 
-<h3>Arte
+<h3>Arte</h3>
 Jogo 2D do tipo Digital art
-<h3>Música/Trilha Sonora
+<h3>Música/Trilha Sonora</h3>
 As trilhas sonoras provem do Freesound um repositório colaborativo de amostras de áudio
 licenciado por CC.
-<h3>Interface/Controles
+<h3>Interface/Controles</h3>
 Toda a interação do jogador com o jogo será feita através de ações touch.
-<h3>Dificuldade
+<h3>Dificuldade</h3>
 A dificuldade do game depende exclusivamente do conhecimento prévio do jogador.
-<h3>Definições gerais
+<h3>Definições gerais</h3>
 <ul>
 <li>Gênero: Jogo educativo;</li>
 <li>Plataformas: Android;</li>
