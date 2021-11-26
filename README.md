@@ -1,14 +1,14 @@
-O Quiz Acadêmico
+<p align="center"> O Quiz Acadêmico </p>
 
-O Quiz Acadêmico ajudará o jogador a se preparar para avaliações, enem, vestibulares e até
+<p align="justify">O Quiz Acadêmico ajudará o jogador a se preparar para avaliações, enem, vestibulares e até
 certificações, estudando e se divertindo ao mesmo tempo.
 Trata-se de jogo de questionários onde as partidas são individuais e tem como objetivo fazer
 uma avaliação do conhecimento sobre um determinado assunto. As perguntas estão divididas
 em quatro disciplinas. Cada disciplina tem uma série de questões que são selecionadas
 aleatoriamente. Por fim, a pontuação é calculada levando-se em conta o percentual de
-respostas corretas. O objetivo principal é que o jogador atinja a maior porcentagem possível.
+respostas corretas. O objetivo principal é que o jogador atinja a maior porcentagem possível.</p>
 
-Ferramentas de desenvolvimento
+<p align="center"> Ferramentas de desenvolvimento </p>
 
 - Plataforma de desenvolvimento: Unity
 - Ambiente de desenvolvimento integrado a Unity: Visual Studio
