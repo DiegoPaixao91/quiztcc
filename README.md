@@ -7,7 +7,9 @@ uma avaliação do conhecimento sobre um determinado assunto. As perguntas estã
 em quatro disciplinas. Cada disciplina tem uma série de questões que são selecionadas
 aleatoriamente. Por fim, a pontuação é calculada levando-se em conta o percentual de
 respostas corretas. O objetivo principal é que o jogador atinja a maior porcentagem possível.
+
 Ferramentas de desenvolvimento
+
 - Plataforma de desenvolvimento: Unity
 - Ambiente de desenvolvimento integrado a Unity: Visual Studio
 - Linguagem de programação: C# (C Sharp)
@@ -19,11 +21,13 @@ Jogo 2D do tipo Digital art
 Música/Trilha Sonora
 As trilhas sonoras provem do Freesound um repositório colaborativo de amostras de áudio
 licenciado por CC.
+
 Interface/Controles
 Toda a interação do jogador com o jogo será feita através de ações touch.
+
 Dificuldade
 A dificuldade do game depende exclusivamente do conhecimento prévio do jogador.
+
 Definições gerais
 Gênero: Jogo educativo;
 Plataformas: Android;
-Público alvo: Acadêmicos e estudantes. 
