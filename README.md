@@ -1,4 +1,4 @@
-<p align="center"> O Quiz Acadêmico </p>
+O Quiz Acadêmico
 
 O Quiz Acadêmico ajudará o jogador a se preparar para avaliações, enem, vestibulares e até
 certificações, estudando e se divertindo ao mesmo tempo.
