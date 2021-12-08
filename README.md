@@ -29,6 +29,6 @@ Toda a interação do jogador com o jogo será feita através de ações touch.
 A dificuldade do game depende exclusivamente do conhecimento prévio do jogador.
 <h3>Definições gerais</h3>
 <ul>
-<li>Gênero: Jogo educativo;</li>
-<li>Plataformas: Android;</li>
+<li>Gênero: Jogo Educacional</li>
+<li>Plataformas: Android</li>
 </ul>
